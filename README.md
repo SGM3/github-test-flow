@@ -1,2 +1,2 @@
 # Sample Readme
-Sample change 1
+Conflicting commit if the other is accepted
